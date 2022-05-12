@@ -1,0 +1,11 @@
+#Ignora los archivos csv
+*.csv
+
+#Ignora los de Mac
+.DS_Store
+
+#Ignora los checkpoints
+.ipynb_checkpoints
+
+#Ignora los archivos del historial de R, por si Ana sin querer abre mal el notebook
+.Rhistory
