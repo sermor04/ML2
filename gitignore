@@ -9,3 +9,6 @@
 
 #Ignora los archivos del historial de R, por si Ana sin querer abre mal el notebook
 .Rhistory
+
+#Ignora los archivos comprimidos
+.rar
