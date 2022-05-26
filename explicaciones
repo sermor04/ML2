@@ -1,0 +1,7 @@
+Holi, he mergeado las branches de train y test, de análisis de importancia y de regresión lineal para dejarlo más limpio. 
+Ya que me salía que se podían unir a master directamente.
+He creado también una red neuronal al final del trabajo. Creo que ha quedado bastante chula.
+Esa parte de código no la corráis porque tarda bastante.
+Los algoritmos que hagáis vosotros hacedlos después de la regresión lineal y antes de la red neuronal.
+De esta manera podemos tener el trabajo ordenado de algoritmos más fáciles a más difíciles.
+Un besito
